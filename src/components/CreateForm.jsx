@@ -83,7 +83,7 @@ const CreateForm = () => {
                 placeholder="What location is the article regarding?"
               />
               <Form.Input
-              style={{overflow: 'auto'}}
+                style={{ overflow: 'auto' }}
                 name="image"
                 label="Upload an image"
                 type="file"
